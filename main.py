@@ -1,1 +1,6 @@
-#WRITE YOUR CODE IN THIS FILE
+#defining woof()
+def woof():
+    #substitute with woof
+    return "woof"
+#test woof()
+print(woof())
