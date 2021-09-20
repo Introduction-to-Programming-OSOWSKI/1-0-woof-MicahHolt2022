@@ -1,6 +1,6 @@
 #defining woof()
 def woof():
     #substitute with woof
-    return "woof"
+    return "Woof"
 #test woof()
 print(woof())
